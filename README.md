@@ -4,7 +4,7 @@ Este repositório contém o trabalho referente ao Módulo 1 da disciplina de **L
 
 ## Participantes do Projeto
 
-Este projeto foi desenvolvido por Marco Antonio da Conceição e Kaio Felipe Saldanha
+Este projeto foi desenvolvido por Marco Antonio da Conceição e Kaio Felipe Saldanha.
 
 ## Descrição do Projeto
 

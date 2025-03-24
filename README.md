@@ -2,9 +2,13 @@
 
 Este repositório contém o trabalho referente ao Módulo 1 da disciplina de **Linguagens Formais e Autômatos (LFA)**, ministrada pelo professor **Alex** na Universidade do Vale do Itajaí (Univali).
 
+## Participantes do Projeto
+
+Este projeto foi desenvolvido por Marco Antonio da Conceição e Kaio Felipe Saldanha
+
 ## Descrição do Projeto
 
-O projeto consiste no desenvolvimento de um **Autômato Finito Determinístico (AFD)** capaz de reconhecer padrões específicos em cadeias de caracteres. O objetivo é aplicar os conceitos teóricos estudados em sala de aula na implementação prática de um reconhecedor de padrões.
+O projeto consiste no desenvolvimento de um **Autômato Finito Determinístico (AFD)** capaz de reconhecer padrões específicos em cadeias de caracteres, o padrão que nosso grupo recebeu é o de Container que segue o padrão AAAA999999-9. O objetivo é aplicar os conceitos teóricos estudados em sala de aula na implementação prática de um reconhecedor de padrões.
 
 ## Estrutura do Repositório
 
@@ -14,7 +18,7 @@ O projeto consiste no desenvolvimento de um **Autômato Finito Determinístico (
 ## Tecnologias Utilizadas
 
 - **Java**: Linguagem principal utilizada no desenvolvimento do autômato.
-- **HTML**: Utilizado para a interface web do projeto.
+- **HTML**: Site Simples desenvolvido para fim de testes da aplicação.
 
 ## Como Executar
 

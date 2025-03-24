@@ -25,3 +25,5 @@ O projeto consiste no desenvolvimento de um **Autômato Finito Determinístico (
 1. Clone este repositório:
    ```bash
    git clone https://github.com/MarcoAntonioConceicao/LFAM1.git
+2. Importe o projeto em sua IDE de preferência.
+3. Compile e execute com sites que abrangem o padrão AAAA999999-9 trocando o link de busca na web que tem no código.
